@@ -1,0 +1,7 @@
+C:\Users\Casper\source\repos\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.exe.config
+C:\Users\Casper\source\repos\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.exe
+C:\Users\Casper\source\repos\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.pdb
+C:\Users\Casper\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.exe
+C:\Users\Casper\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.pdb
