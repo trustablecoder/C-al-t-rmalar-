@@ -48,7 +48,7 @@ namespace hesap_makinesi
                 else
                 {
                     Console.WriteLine("Oturum kapatılıyor.");
-                    Console.Clear();
+                    Environment.Exit(0);
 
                 }
                 Console.WriteLine("Bir daha işlem yapmak istiyor musunuz? (e/h)");
@@ -61,7 +61,7 @@ namespace hesap_makinesi
                 else
                 {
                     Console.WriteLine("Oturum kapatılıyor...");
-                    Console.Clear();
+                    Environment.Exit(0);
                 }
 
             }
