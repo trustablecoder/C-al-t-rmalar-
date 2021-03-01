@@ -1,0 +1,10 @@
+C:\Users\simge\source\repos\fibonacci_uygulaması\fibonacci_uygulaması\bin\Debug\fibonacci_uygulaması.exe.config
+C:\Users\simge\source\repos\fibonacci_uygulaması\fibonacci_uygulaması\bin\Debug\fibonacci_uygulaması.exe
+C:\Users\simge\source\repos\fibonacci_uygulaması\fibonacci_uygulaması\bin\Debug\fibonacci_uygulaması.pdb
+C:\Users\simge\source\repos\fibonacci_uygulaması\fibonacci_uygulaması\obj\Debug\fibonacci_uygulaması.csprojAssemblyReference.cache
+C:\Users\simge\source\repos\fibonacci_uygulaması\fibonacci_uygulaması\obj\Debug\fibonacci_uygulaması.Form1.resources
+C:\Users\simge\source\repos\fibonacci_uygulaması\fibonacci_uygulaması\obj\Debug\fibonacci_uygulaması.Properties.Resources.resources
+C:\Users\simge\source\repos\fibonacci_uygulaması\fibonacci_uygulaması\obj\Debug\fibonacci_uygulaması.csproj.GenerateResource.cache
+C:\Users\simge\source\repos\fibonacci_uygulaması\fibonacci_uygulaması\obj\Debug\fibonacci_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\simge\source\repos\fibonacci_uygulaması\fibonacci_uygulaması\obj\Debug\fibonacci_uygulaması.exe
+C:\Users\simge\source\repos\fibonacci_uygulaması\fibonacci_uygulaması\obj\Debug\fibonacci_uygulaması.pdb
