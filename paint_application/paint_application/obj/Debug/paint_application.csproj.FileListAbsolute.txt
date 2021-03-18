@@ -1,0 +1,10 @@
+C:\Users\simge\source\repos\paint_application\paint_application\bin\Debug\paint_application.exe.config
+C:\Users\simge\source\repos\paint_application\paint_application\bin\Debug\paint_application.exe
+C:\Users\simge\source\repos\paint_application\paint_application\bin\Debug\paint_application.pdb
+C:\Users\simge\source\repos\paint_application\paint_application\obj\Debug\paint_application.csprojAssemblyReference.cache
+C:\Users\simge\source\repos\paint_application\paint_application\obj\Debug\paint_application.Form1.resources
+C:\Users\simge\source\repos\paint_application\paint_application\obj\Debug\paint_application.Properties.Resources.resources
+C:\Users\simge\source\repos\paint_application\paint_application\obj\Debug\paint_application.csproj.GenerateResource.cache
+C:\Users\simge\source\repos\paint_application\paint_application\obj\Debug\paint_application.csproj.CoreCompileInputs.cache
+C:\Users\simge\source\repos\paint_application\paint_application\obj\Debug\paint_application.exe
+C:\Users\simge\source\repos\paint_application\paint_application\obj\Debug\paint_application.pdb
