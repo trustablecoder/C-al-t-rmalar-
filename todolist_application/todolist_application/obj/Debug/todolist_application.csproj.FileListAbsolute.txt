@@ -1,0 +1,10 @@
+C:\Users\simge\source\repos\todolist_application\todolist_application\bin\Debug\todolist_application.exe.config
+C:\Users\simge\source\repos\todolist_application\todolist_application\bin\Debug\todolist_application.exe
+C:\Users\simge\source\repos\todolist_application\todolist_application\bin\Debug\todolist_application.pdb
+C:\Users\simge\source\repos\todolist_application\todolist_application\obj\Debug\todolist_application.csprojAssemblyReference.cache
+C:\Users\simge\source\repos\todolist_application\todolist_application\obj\Debug\todolist_application.Form1.resources
+C:\Users\simge\source\repos\todolist_application\todolist_application\obj\Debug\todolist_application.Properties.Resources.resources
+C:\Users\simge\source\repos\todolist_application\todolist_application\obj\Debug\todolist_application.csproj.GenerateResource.cache
+C:\Users\simge\source\repos\todolist_application\todolist_application\obj\Debug\todolist_application.csproj.CoreCompileInputs.cache
+C:\Users\simge\source\repos\todolist_application\todolist_application\obj\Debug\todolist_application.exe
+C:\Users\simge\source\repos\todolist_application\todolist_application\obj\Debug\todolist_application.pdb
