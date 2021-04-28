@@ -1,0 +1,10 @@
+C:\Users\simge\source\repos\grafik_cizdirme\grafik_cizdirme\bin\Debug\grafik_cizdirme.exe.config
+C:\Users\simge\source\repos\grafik_cizdirme\grafik_cizdirme\bin\Debug\grafik_cizdirme.exe
+C:\Users\simge\source\repos\grafik_cizdirme\grafik_cizdirme\bin\Debug\grafik_cizdirme.pdb
+C:\Users\simge\source\repos\grafik_cizdirme\grafik_cizdirme\obj\Debug\grafik_cizdirme.csprojAssemblyReference.cache
+C:\Users\simge\source\repos\grafik_cizdirme\grafik_cizdirme\obj\Debug\grafik_cizdirme.Form1.resources
+C:\Users\simge\source\repos\grafik_cizdirme\grafik_cizdirme\obj\Debug\grafik_cizdirme.Properties.Resources.resources
+C:\Users\simge\source\repos\grafik_cizdirme\grafik_cizdirme\obj\Debug\grafik_cizdirme.csproj.GenerateResource.cache
+C:\Users\simge\source\repos\grafik_cizdirme\grafik_cizdirme\obj\Debug\grafik_cizdirme.csproj.CoreCompileInputs.cache
+C:\Users\simge\source\repos\grafik_cizdirme\grafik_cizdirme\obj\Debug\grafik_cizdirme.exe
+C:\Users\simge\source\repos\grafik_cizdirme\grafik_cizdirme\obj\Debug\grafik_cizdirme.pdb
