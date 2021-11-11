@@ -1,0 +1,10 @@
+C:\Users\simge\source\repos\nesne_tabanli_programlama\nesne_tabanli_programlama\bin\Debug\nesne_tabanli_programlama.exe.config
+C:\Users\simge\source\repos\nesne_tabanli_programlama\nesne_tabanli_programlama\bin\Debug\nesne_tabanli_programlama.exe
+C:\Users\simge\source\repos\nesne_tabanli_programlama\nesne_tabanli_programlama\bin\Debug\nesne_tabanli_programlama.pdb
+C:\Users\simge\source\repos\nesne_tabanli_programlama\nesne_tabanli_programlama\obj\Debug\nesne_tabanli_programlama.csprojAssemblyReference.cache
+C:\Users\simge\source\repos\nesne_tabanli_programlama\nesne_tabanli_programlama\obj\Debug\nesne_tabanli_programlama.Form1.resources
+C:\Users\simge\source\repos\nesne_tabanli_programlama\nesne_tabanli_programlama\obj\Debug\nesne_tabanli_programlama.Properties.Resources.resources
+C:\Users\simge\source\repos\nesne_tabanli_programlama\nesne_tabanli_programlama\obj\Debug\nesne_tabanli_programlama.csproj.GenerateResource.cache
+C:\Users\simge\source\repos\nesne_tabanli_programlama\nesne_tabanli_programlama\obj\Debug\nesne_tabanli_programlama.csproj.CoreCompileInputs.cache
+C:\Users\simge\source\repos\nesne_tabanli_programlama\nesne_tabanli_programlama\obj\Debug\nesne_tabanli_programlama.exe
+C:\Users\simge\source\repos\nesne_tabanli_programlama\nesne_tabanli_programlama\obj\Debug\nesne_tabanli_programlama.pdb
